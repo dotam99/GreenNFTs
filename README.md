@@ -1,5 +1,7 @@
 # GreenNFTs
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/873734d9dd4a4524896ce8bef2cd9b42)](https://app.codacy.com/gh/dotam99/GreenNFTs?utm_source=github.com&utm_medium=referral&utm_content=dotam99/GreenNFTs&utm_campaign=Badge_Grade_Settings)
+
 ### Bounty For More Ecologically Friendly NFTs (Non-fungible Tokens) 
 
 
